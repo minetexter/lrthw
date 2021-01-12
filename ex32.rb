@@ -30,6 +30,7 @@ elements = []
   puts "adding #{i} to the list."
   # pushes the i variable on the *end* of the list
   elements.push(i)
+  puts elements
 end
 
 # now we can print them out too
